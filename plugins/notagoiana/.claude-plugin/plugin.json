@@ -1,0 +1,17 @@
+{
+  "name": "notagoiana",
+  "version": "1.0.0",
+  "description": "Consulte, prepare, emita e cancele NFS-e do NotaGoiana conversando: faturamento, tomadores, notas e links do PDF.",
+  "author": {
+    "name": "NotaGoiana",
+    "email": "contato@notagoiana.com",
+    "url": "https://notagoiana.com"
+  },
+  "homepage": "https://notagoiana.com",
+  "license": "MIT",
+  "keywords": ["nfs-e", "nota fiscal", "nota fiscal de serviço", "emissor nacional", "contabilidade", "brasil"],
+  "privacyPolicyUrl": "https://notagoiana.com/privacidade.html",
+  "termsOfServiceUrl": "https://notagoiana.com/termos.html",
+  "supportUrl": "https://notagoiana.com",
+  "documentationUrl": "https://notagoiana.com"
+}
