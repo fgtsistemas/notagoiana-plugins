@@ -1,0 +1,17 @@
+{
+  "name": "notagoiana",
+  "owner": {
+    "name": "NotaGoiana",
+    "email": "contato@notagoiana.com"
+  },
+  "metadata": {
+    "description": "Plugins do NotaGoiana: emissão de NFS-e conversando."
+  },
+  "plugins": [
+    {
+      "name": "notagoiana",
+      "source": "./plugins/notagoiana",
+      "description": "Consulte, prepare, emita e cancele NFS-e do NotaGoiana conversando: faturamento, tomadores, notas e links do PDF."
+    }
+  ]
+}
