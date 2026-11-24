@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "notagoiana": {
+      "type": "http",
+      "url": "https://apinota.fgtsistemas.com.br/mcp"
+    }
+  }
+}
