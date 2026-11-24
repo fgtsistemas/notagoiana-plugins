@@ -9,7 +9,7 @@ nas empresas que você acessa e dentro do seu plano.
 No Claude Code:
 
 ```
-claude plugin marketplace add n8namigos/notagoiana-plugins
+claude plugin marketplace add fgtsistemas/notagoiana-plugins
 claude plugin install notagoiana@notagoiana
 ```
 
